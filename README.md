@@ -2,7 +2,9 @@
 
 [![CI](https://github.com/thiagoCardoso13/JobOffersPainel/actions/workflows/ci.yml/badge.svg)](https://github.com/thiagoCardoso13/JobOffersPainel/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-ff4b4b)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spain-data-job-market.streamlit.app)
+
+### 🔗 [Live demo → spain-data-job-market.streamlit.app](https://spain-data-job-market.streamlit.app)
 
 **What do data job offers in Spain actually ask for, and what does that look like in Alicante/Elche?**
 

@@ -1,0 +1,7 @@
+.venv/
+data/*.duckdb
+__pycache__/
+.env
+data/api_calls.json
+.pytest_cache/
+.DS_Store
